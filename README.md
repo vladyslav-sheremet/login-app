@@ -1,5 +1,10 @@
 # login-app
 
+## Used technology
+1) Vue 3
+2) SCSS
+3) Vue Router
+
 ## Project setup
 ```
 npm install
@@ -9,11 +14,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
